@@ -1,0 +1,9 @@
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe.config
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.exe
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\DependencyInjectionExample.pdb
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.csprojResolveAssemblyReference.cache
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.exe
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\obj\Debug\DependencyInjectionExample.pdb
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\Castle.Core.dll
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\Castle.Windsor.dll
+c:\users\jamwalr\documents\visual studio 2015\Projects\DependencyInjectionExample\DependencyInjectionExample\bin\Debug\Castle.Windsor.xml
